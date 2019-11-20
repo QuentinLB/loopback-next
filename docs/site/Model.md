@@ -277,7 +277,7 @@ now:
     <li><code>true</code>: <code>id</code> property is added to the model automatically. This is the default.</li>
     <li><code>false</code>: <code>id</code> property is not added to the model</li>
     </ul>
-    See <a href="#id-properties">ID properties</a> for more information.  The <code>idInjection</code> property in <code>options</code> (if present) takes precedence.
+    See <a href="https://loopback.io/doc/en/lb3/Model-definition-JSON-file.html#id-properties">ID properties</a> for more information.  The <code>idInjection</code> property in <code>options</code> (if present) takes precedence.
     </td>
   </tr>
 
